@@ -48,6 +48,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Deployed Live Link
 
+https://mod19-pwatext-501d6046629a.herokuapp.com/
 
 ## Github Repo Link
 
